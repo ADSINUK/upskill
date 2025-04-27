@@ -1,0 +1,5 @@
+pytest
+pytest-pythonpath
+pandas
+black
+ruff
